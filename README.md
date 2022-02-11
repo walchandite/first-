@@ -1,2 +1,2 @@
 # first-
-new repo
+new repository
